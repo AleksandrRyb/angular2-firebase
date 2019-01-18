@@ -1,3 +1,5 @@
+#CRUD app created on angular7 with firebase authentication and firestore
+
 # AngularLogger
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0.
