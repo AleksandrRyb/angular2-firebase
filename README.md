@@ -1,4 +1,4 @@
-#CRUD app created on angular7 with firebase authentication and firestore
+CRUD app created on angular7 with firebase authentication and firestore
 
 # AngularLogger
 
